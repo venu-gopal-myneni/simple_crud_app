@@ -4,3 +4,8 @@ node index.js
 add serve in scripts variable of package.json
 npm run serve
 npm install express
+
+npm install --save-dev nodemon # or using yarn: yarn add nodemon -D
+npm install mongodb
+npm install mongoose
+
