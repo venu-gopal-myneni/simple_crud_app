@@ -1,0 +1,6 @@
+npm init -y
+create index.js
+node index.js
+add serve in scripts variable of package.json
+npm run serve
+npm install express
